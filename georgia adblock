@@ -1,5 +1,5 @@
 ||top.ge^$script
-top.ge##.item-content .popular-posts-snippet
+||top.ge##.item-content .popular-posts-snippet
 ||vast.yomeno.xyz/vast?spot_id=1414858$xmlhttprequest
 ||vast.yomeno.xyz/vast?spot_id=1414858$script
 ||tracking.crazyegg.com^
@@ -12,22 +12,22 @@ top.ge##.item-content .popular-posts-snippet
 ||noolt.com^
 ||toruftuiov.com^
 ||conjunctionrepresentativepowerless.com^$popup
-mondostudio.net##div.mobile-1:nth-child(7) > div:nth-child(4) > a > img
-mondostudio.net##div.mobile-1:nth-child(7) > center:nth-child(2) > h5.blinking-text:last-child
-mondostudio.net###content > div.shida-bg-0:last-child > div.a-zoma-11 > div.shida-movie-1 > center > center:last-child > div.sh-video-1:last-child > div:nth-child(3) > a > img
-mondostudio.net###content > div.shida-bg-0:last-child > div.a-zoma-11 > div.shida-movie-1 > center > center:last-child > center:nth-child(3) > a.facebook-link > i.fab.fa-facebook
-mondostudio.net###content > div.shida-bg-0:last-child > div.a-zoma-11 > div.shida-movie-1 > center > center:last-child > center:first-child > a.facebook-link > i.fab.fa-telegram
-mondostudio.net###content > div.shida-bg-0:last-child > div.a-zoma-11 > div.shida-movie-1 > center > h5.blinking-text:nth-child(2)
-mondostudio.net###content > div.shida-bg-0:last-child > div.a-zoma-11 > div.shida-movie-1 > center > center:last-child > div:nth-child(6) > a
+||mondostudio.net##div.mobile-1:nth-child(7) > div:nth-child(4) > a > img
+||mondostudio.net##div.mobile-1:nth-child(7) > center:nth-child(2) > h5.blinking-text:last-child
+||mondostudio.net###content > div.shida-bg-0:last-child > div.a-zoma-11 > div.shida-movie-1 > center > center:last-child > div.sh-video-1:last-child > div:nth-child(3) > a > img
+||mondostudio.net###content > div.shida-bg-0:last-child > div.a-zoma-11 > div.shida-movie-1 > center > center:last-child > center:nth-child(3) > a.facebook-link > i.fab.fa-facebook
+||mondostudio.net###content > div.shida-bg-0:last-child > div.a-zoma-11 > div.shida-movie-1 > center > center:last-child > center:first-child > a.facebook-link > i.fab.fa-telegram
+||mondostudio.net###content > div.shida-bg-0:last-child > div.a-zoma-11 > div.shida-movie-1 > center > h5.blinking-text:nth-child(2)
+||mondostudio.net###content > div.shida-bg-0:last-child > div.a-zoma-11 > div.shida-movie-1 > center > center:last-child > div:nth-child(6) > a
 ||mondostudio.net/engine/modules/player/pre/*.xml$xmlhttprequest
-adjaranets.com###swiper-primary > div.swiper-wrapper:first-child > div.swiper-slide.swiper-slide-active:first-child
-https://www.googletagmanager.com/ns.html?
-https://adjaranets.com/engine/modules/player/pre/ambsfin.xml"]
-https://adjaranets.com/engine/modules/player/ambs-fina-3.xml
-https://adjaranets.com/engine/modules/player/ambs-fina-2.xml
-https://www.googletagmanager.com/gtag/js?
-https://www.googletagmanager.com/gtm.js?
-adjaranets.com/engine/modules/player/ambs-fina-2.xml
+||adjaranets.com###swiper-primary > div.swiper-wrapper:first-child > div.swiper-slide.swiper-slide-active:first-child
+||googletagmanager.com/ns.html?
+||adjaranets.com/engine/modules/player/pre/ambsfin.xml"]
+||adjaranets.com/engine/modules/player/ambs-fina-3.xml
+||adjaranets.com/engine/modules/player/ambs-fina-2.xml
+||googletagmanager.com/gtag/js?
+||googletagmanager.com/gtm.js?
+||adjaranets.com/engine/modules/player/ambs-fina-2.xml
 ||adjaranets.com/templates/adjara-3/fonts/*.woff2$font
 ||adjaranets.com/engine/modules/player/ambs-fina-2.xml$script
 ||adjaranets.com/engine/modules/player/ambs-fina-3.xml$script
@@ -35,35 +35,33 @@ adjaranets.com/engine/modules/player/ambs-fina-2.xml
 ||www.google-analytics.com^
 ||adjaranets.com/engine/modules/player/*.xml$script
 ||adx.adform.net^
-holahupa.com/gtm.js
-vidmoly.me^
-hqstreams7.pro^
+||holahupa.com/gtm.js
+||hqstreams7.pro^
 ||lemouwee.com^
 ||yandex.ru/ads/system/context.js^
 ||yandex.ru/r/ads/system/context.js^
 ||yandex.ru/adv/context.js^
 ||yandex.ru/rts/js^
-getprofit.live
-mcs-school.ru
-pellets.kz/en
-###boxzilla-1448
-ak.amskiploomr.com
-kaufoopaih.net
-guard-cheking.com
-go.trackinita.com
-tracking.pretrackings.com
-my.toruftuiov.com
-adscope.gotrackier.com
-lqvridbopk.com
-https://m.crocobet.com
+||getprofit.live
+||mcs-school.ru
+||pellets.kz/en
+||ak.amskiploomr.com
+||kaufoopaih.net
+||guard-cheking.com
+||go.trackinita.com
+||tracking.pretrackings.com
+||my.toruftuiov.com
+||adscope.gotrackier.com
+||lqvridbopk.com
+||m.crocobet.com
 ||mykadri.tv/templates/mykadri_V2/js/ban.js
-aditmedia.g2afse.com
+||aditmedia.g2afse.com
 ||staticxx.facebook.com/*
-||www.google-analytics.com/gtag/js?id=UA-241033342-1
-https://#/
-noolt.com
-1asb.com
-ak.hetapus.com
+||google-analytics.com/gtag/js?id=UA-241033342-1
+||#/
+||noolt.com
+||1asb.com
+||ak.hetapus.com
 ||adx.adform.net/adx/*
 ||geosaitebi.tv/preroll/*
 ||mykadri.tv/templates/mykadri_V2/css/baner-4.css^
@@ -75,30 +73,27 @@ ak.hetapus.com
 ||adjaranet.in/upload/wellcome.xml^
 ||cdn.trafficbass.com^
 ||record.a-bet.io^
-||*.record.a-bet.io^
 ||record.a-bet.io^$script,image,subdocument
 ||record.a-bet.io^$subdocument
 ||record.a-bet.io^$image
 ||record.a-bet.io^$script
-||*.static-cdn.xyz^
-||*.wounofoarausooy.net^
+||wounofoarausooy.net^
 ||adjaranets.xyz^$image
 ||adjaranets.xyz^$inline-script
-||*.adjaranets.xyz^
 ||wounofoarausooy.net^
 ||static-cdn.xyz^
-mykadri.tv##script[src*="eskimi.com"]
-mykadri.tv##script[src*="adx.adform.net"]
-mykadri.tv##div#zone_1314546111
+||mykadri.tv##script
+||mykadri.tv##script
+||mykadri.tv##div#zone_1314546111
 ||trafficbass.com^
 ||mykadri1.xyz/ads/*
 ||mykadri1.xyz/css/*
 ||mykadri1.xyz/js/*
 ||sspjs.eskimi.com/*
-||www.googletagmanager.com/*
-||www.googletagmanager.com/gtag/js?id=UA-241033342-1
+||googletagmanager.com/*
+||googletagmanager.com/gtag/js?id=UA-241033342-1
 ||sspjs.eskimi.com/esadt.js
-https://yandex.ru/ads/advertiser
+||yandex.ru/ads/advertiser
 ||qartulad.cc/engine/modules/player/max/new/max-*.xml^
 ||qartulad.cc/preroll/random2.php^
 ||googletagmanager.com/gtag/js?id=G-H84GJH5S4Q^
