@@ -10,15 +10,8 @@ top.ge##.item-content .popular-posts-snippet
 ||tracking.pretrackings.com^
 ||1asb.com^
 ||noolt.com^
-##div.separator:nth-child(6)
-##div.separator
 ||toruftuiov.com^
 ||conjunctionrepresentativepowerless.com^$popup
-###dle-content > div.size-video-1.center-size-3:first-child > article.full-adgili-1 > div.sruliadi-1 > div.ads-g-03.ads-g-3.ads-g-1:nth-child(2) > a:last-child > img
-##span.mob-no-1:last-child > div.center-2:last-child > div.center-3.center-1:first-child > a:nth-child(5) > img
-##span.mob-no-1:nth-child(2) > div.center-2:nth-child(2) > div.center-3.center-1 > div.ads-g-2.ads-g-1:nth-child(2) > a:nth-child(2) > img
-##div.main:nth-child(3) > section.section.section--margin:nth-child(4) > div.slider-wrapper.container.short-poster.slider-wrapper--width > div.swiper-container.swiper-short-js.swiper-initialized.swiper-horizontal.swiper-ios.swiper-backface-hidden > a:nth-child(2) > img
-###dle-content > div.container.full-promo_main-content:first-child > a:nth-child(5) > img
 mondostudio.net##div.mobile-1:nth-child(7) > div:nth-child(4) > a > img
 mondostudio.net##div.mobile-1:nth-child(7) > center:nth-child(2) > h5.blinking-text:last-child
 mondostudio.net###content > div.shida-bg-0:last-child > div.a-zoma-11 > div.shida-movie-1 > center > center:last-child > div.sh-video-1:last-child > div:nth-child(3) > a > img
@@ -34,7 +27,6 @@ https://adjaranets.com/engine/modules/player/ambs-fina-3.xml
 https://adjaranets.com/engine/modules/player/ambs-fina-2.xml
 https://www.googletagmanager.com/gtag/js?
 https://www.googletagmanager.com/gtm.js?
-player/pre/ambsfin.xml
 adjaranets.com/engine/modules/player/ambs-fina-2.xml
 ||adjaranets.com/templates/adjara-3/fonts/*.woff2$font
 ||adjaranets.com/engine/modules/player/ambs-fina-2.xml$script
@@ -44,15 +36,13 @@ adjaranets.com/engine/modules/player/ambs-fina-2.xml
 ||adjaranets.com/engine/modules/player/*.xml$script
 ||adx.adform.net^
 holahupa.com/gtm.js
-vidmoly.me
-hqstreams7.pro
-###VideOreKLam
+vidmoly.me^
+hqstreams7.pro^
 ||lemouwee.com^
 ||yandex.ru/ads/system/context.js^
 ||yandex.ru/r/ads/system/context.js^
 ||yandex.ru/adv/context.js^
 ||yandex.ru/rts/js^
-##.ad-banner
 getprofit.live
 mcs-school.ru
 pellets.kz/en
@@ -60,10 +50,6 @@ pellets.kz/en
 ak.amskiploomr.com
 kaufoopaih.net
 guard-cheking.com
-##main.main:nth-child(2) > section.content:nth-child(3) > div.row.m-b-15:nth-child(2) > div.col-12.d-block.d-sm-none:last-child > iframe.lazyLoad.loaded
-##main.main:nth-child(2) > section.content:nth-child(3) > div.row.m-b-15:first-child > div.col-12.d-block.d-sm-none:last-child > iframe.lazyLoad.loaded
-##main.main:nth-child(2) > section.content:nth-child(3) > div.inner_page_container.movie-page.movie-item:first-child > div.row.m-b-15:nth-child(2) > div.col-12.d-block.d-sm-none:last-child > iframe.lazyLoad.loaded
-##div.wrapper:nth-child(11) > div.ad-catfish.ad-catfish__desktop:nth-child(15) > div.ad-catfish-content
 go.trackinita.com
 tracking.pretrackings.com
 my.toruftuiov.com
@@ -78,35 +64,8 @@ https://#/
 noolt.com
 1asb.com
 ak.hetapus.com
-##div.wrapper:nth-child(10) > div.ad-catfish.ad-catfish__desktop:nth-child(16)
 ||adx.adform.net/adx/*
 ||geosaitebi.tv/preroll/*
-##div.wrapper:nth-child(10) > div.ad-catfish.ad-catfish__desktop:nth-child(14) > div.ad-catfish-content
-##div.wrapper:nth-child(11) > div.ad-catfish.ad-catfish__desktop:nth-child(14) > div.ad-catfish-content
-##div.wrapper:nth-child(19) > div.fulshi-1:nth-child(2) > div.bb-size-120.zoma-2:nth-child(2) > div.ifram-b-3.ifram-b-1.baner-1-NO > div.avc-amba > a > img
-###jwplayer-7f9bdd5e2b5b > div.jw-wrapper.jw-reset:nth-child(2)
-###jwplayer-537ed459a458
-###jwplayer-61cf923876a3 > div.jw-wrapper.jw-reset:nth-child(2)
-###jwplayer-9ec5111bc416
-###jwplayer-916ab23f1487
-###jwplayer-deff97999164
-###jwplayer-8b07a7ea9ab7
-###jwplayer-0e5702b75a65 > div.jw-wrapper.jw-reset:nth-child(2)
-###jwplayer-63cb056c0b4e
-###jwplayer-f08dc80476db
-###jwplayer-3cfa5a008900
-###jwplayer-9c76e7acfc33 > div.jw-wrapper.jw-reset:nth-child(2)
-###jwplayer-354c395a1c4b
-###jwplayer-e08a22c58bef
-###jwplayer-869d6a2e6bae
-###jwplayer-52749a9e0d1c > div.jw-wrapper.jw-reset:nth-child(2)
-###jwplayer-ca186d892ac5
-###jwplayer-6406924d9bdd
-###jwplayer-a653003e7de8
-###jwplayer-a5bb1bbb027a > div.jw-wrapper.jw-reset:nth-child(2)
-###jwplayer-90319a088217 > div.jw-wrapper.jw-reset:nth-child(2)
-##div.wrapper:nth-child(11) > div.center-1.no-home.fulshi-1.apirebsyureba-1:first-child > div.no-home-2 > div.no-home-3 > div.b-size-120.zoma-2:nth-child(2) > div.avc-amba > a > img
-##div.wrapper:nth-child(10) > div.center-1.no-home.apirebsyureba-1:first-child > div.no-home-2 > div.no-home-3 > div.b-size-120.zoma-2:nth-child(2) > div.avc-amba > a > img
 ||mykadri.tv/templates/mykadri_V2/css/baner-4.css^
 ||mykadri.tv/templates/mykadri_V2/css/custom.css^
 ||mykadri.tv/templates/mykadri_V2/js/ban.js^
@@ -115,74 +74,6 @@ ak.hetapus.com
 ||adjaranet.in/upload/final.xml^
 ||adjaranet.in/upload/wellcome.xml^
 ||cdn.trafficbass.com^
-###jwp-iframe-series > div.jwp-before-play:first-child
-###jwplayer-a72531167d17
-###jwplayer-bbdae2178725
-###jwplayer-a5ad62dbae37 > div.jw-wrapper.jw-reset:nth-child(2)
-###jwplayer-5ad3ce7708e6 > div.jw-wrapper.jw-reset:nth-child(2)
-###jwplayer-c4cca2c7b393 > div.jw-wrapper.jw-reset:nth-child(2)
-###jwplayer-f9e9fd3d8984 > div.jw-wrapper.jw-reset:nth-child(2)
-###jwplayer-cbcf8af0fe4d
-###jwplayer-9520946c2037
-###jwplayer-8bb7b20c5aff > div.jw-wrapper.jw-reset:nth-child(2)
-###jwplayer-90a001c7947a
-###jwplayer-0d7c6228141b > div.jw-wrapper.jw-reset:nth-child(2)
-###jwplayer-67e29bf795bd > div.jw-wrapper.jw-reset:nth-child(2)
-###jwplayer-6f58155755fd > div.jw-wrapper.jw-reset:nth-child(2)
-###jwplayer-c6f1d2be1017 > div.jw-wrapper.jw-reset:nth-child(2)
-###jwplayer-9fdceb86e8b9
-###jwplayer-da1754ed4f72 > div.jw-wrapper.jw-reset:nth-child(2)
-###jwplayer-9a686e334036
-###jwplayer-9f253c2a9123 > div.jw-wrapper.jw-reset:nth-child(2)
-###jwplayer-214dfaedcd45
-###jwplayer-494c10c3380c > div.jw-wrapper.jw-reset:nth-child(2)
-###jwplayer-3e07d724afeb > div.jw-wrapper.jw-reset:nth-child(2)
-###jwplayer-bba36e7f3d44
-###jwplayer-8889f8afa33e > div.jw-wrapper.jw-reset:nth-child(2)
-###jwplayer-87811efce7df
-###jwplayer-906d34791fae > div.jw-wrapper.jw-reset:nth-child(2)
-###jwplayer-2cc2dfb644cf
-###jwplayer-075fde2c3b17
-###jwplayer-9fa7dab3bcc5
-###jwplayer-710929195666
-###jwplayer-6999e2032722
-###jwplayer-7c4405020ed1
-###jwplayer-2e7c72e05f96
-##main:nth-child(9) > div.wrapper > div.mt-8.space-y-8 > center:nth-child(2) > div.avc-amba1 > a > img
-###jwplayer-6152a2a53eba > div.jw-wrapper.jw-reset:nth-child(2)
-###jwp-iframe-xf-iframe > div.jwp-before-play:first-child
-###jwplayer-74412c1e15f5
-###jwplayer-450e3d0f548b > div.jw-wrapper.jw-reset:nth-child(2)
-###jwplayer-0a13026b53ee > div.jw-wrapper.jw-reset:nth-child(2)
-###jwplayer-8fd524904c28 > div.jw-wrapper.jw-reset:nth-child(2)
-###jwplayer-1f30c5ce37a6
-###jwplayer-7dfe3daeba27
-###jwplayer-4ecae8a21ee7
-###jwplayer-443d38bd9c2f
-###jwplayer-5c1d5f0d6bf3
-###jwplayer-2cb028942faf
-###jwplayer-c331aac151ea
-###jwplayer-9e6fda30cb2a
-###jwplayer-1173dc05c510
-###jwplayer-9a6cbd4c97f1
-###jwplayer-b466cbce19b7
-###jwplayer-c7ff080bb94e
-###jwplayer-c7486add1669
-###jwplayer-c3662ab4a7c0
-###jwplayer-f1becb4c0b11 > div.jw-wrapper.jw-reset:nth-child(2)
-###jwplayer-468e2e886753
-###jwplayer-9dfb7d8b4107
-###jwplayer-74bf2459703e > div.jw-wrapper.jw-reset:nth-child(2)
-###jwplayer-f09b588eebbe > div.jw-wrapper.jw-reset:nth-child(2)
-###jwplayer-249e57c63614 > div.jw-wrapper.jw-reset:nth-child(2)
-###jwplayer-e18de04e71ab
-###jwplayer-dcc7da1b3053
-###jwplayer-6d78c6011ddf > div.jw-wrapper.jw-reset:nth-child(2)
-###jwplayer-94b3c3644c9b
-###jwplayer-d6df6db552d3 > div.jw-wrapper.jw-reset:nth-child(2)
-##main.mt-\[60px\].lg\:mt-\[72px\]:nth-child(12) > div > center:nth-child(3) > div.avc-amba1:nth-child(2) > a > img
-###jwplayer-bd9a00f08d33
-###jwplayer-7190935c334c > div.jw-wrapper.jw-reset:nth-child(2)
 ||record.a-bet.io^
 ||*.record.a-bet.io^
 ||record.a-bet.io^$script,image,subdocument
@@ -196,15 +87,6 @@ ak.hetapus.com
 ||*.adjaranets.xyz^
 ||wounofoarausooy.net^
 ||static-cdn.xyz^
-##iframe[src*="record.a-bet.io"]
-##.banner
-##.ad-container
-##main:nth-child(4) > center:nth-child(3) > center > div.avc-amba > a > img
-###catfish
-###close-banner > img
-###catfish > div.cat-link:last-child > div.avc-amba > a > img
-##main:nth-child(4) > div.container:last-child > section.rentplace.text-center.mt-3:first-child > center:last-child > div.avc-amba > a > img
-##main:nth-child(4) > div.container:last-child > center:nth-child(5) > center:first-child > a > img
 mykadri.tv##script[src*="eskimi.com"]
 mykadri.tv##script[src*="adx.adform.net"]
 mykadri.tv##div#zone_1314546111
@@ -215,335 +97,19 @@ mykadri.tv##div#zone_1314546111
 ||sspjs.eskimi.com/*
 ||www.googletagmanager.com/*
 ||www.googletagmanager.com/gtag/js?id=UA-241033342-1
-##div.wrapper:nth-child(19) > div.ad-catfish.ad-catfish__desktop:nth-child(12)
 ||sspjs.eskimi.com/esadt.js
 https://yandex.ru/ads/advertiser
-###yandex_rtb_R-A-11764998-20
 ||qartulad.cc/engine/modules/player/max/new/max-*.xml^
 ||qartulad.cc/preroll/random2.php^
 ||googletagmanager.com/gtag/js?id=G-H84GJH5S4Q^
-##div[id^="jwp-banner"]
-##main:nth-child(5) > section.section.section--dle-content.my-4:last-child > div.container > center:first-child > div.avc-amba > a > img
-##main:nth-child(5) > div.container:last-child > section.rentplace.text-center.mt-3:first-child > center:last-child > div.avc-amba > a > img
-##main:nth-child(5) > center:nth-child(3) > center > div.avc-amba > a > img
 max-win.com
 go.max-win4.com
 bit.ly/maxwin
 ||www.gstatic.com^
 organicextentbounds.com
-##div.wrapper:nth-child(12) > div.ad-catfish.ad-catfish__desktop:nth-child(14) > div.ad-catfish-content > div.avc-amba:first-child > a > img
-##div.wrapper:nth-child(12) > div.center-1.no-home.fulshi-1.apirebsyureba-1:first-child > div.no-home-2 > div.no-home-3 > div.b-size-120.zoma-2:nth-child(2) > div.avc-amba > a > img
-##div.wrapper:nth-child(11) > div.center-1.no-home.doli-1.apirebsyureba-1:first-child > div.no-home-2 > div.no-home-3 > div.b-size-120.zoma-2:nth-child(2) > div.avc-amba > a > img
-##div.wrapper:nth-child(20) > div.fulshi-1:nth-child(2) > div.bb-size-120.zoma-2:nth-child(2) > div.ifram-b-3.ifram-b-1.baner-1-NO > div.avc-amba > a > img
-##div.wrapper:nth-child(20) > div.ad-catfish.ad-catfish__desktop:nth-child(12)
-##div.wrapper:nth-child(12) > div.ad-catfish.ad-catfish__desktop:nth-child(14) > div.ad-catfish-content > div.ad-close:last-child
-##div.wrapper:nth-child(11) > div.ad-catfish.ad-catfish__desktop:nth-child(16) > div.ad-catfish-content
-##div.wrapper:nth-child(11) > div.center-1.no-home.apirebsyureba-1:first-child > div.no-home-2 > div.no-home-3 > div.b-size-120.zoma-2:nth-child(2) > div.avc-amba
-##div.wrapper:nth-child(12) > div.ad-catfish.ad-catfish__desktop:nth-child(15)
-##main:nth-child(3) > div.wrapper > div.mt-8.space-y-8 > center:nth-child(2) > div > a
-###remobanner > div:first-child > a > img
-##main:nth-child(3) > div.wrapper > div.mt-8.space-y-8 > center:nth-child(4) > div > a > img
-##main.mt-\[60px\].lg\:mt-\[72px\]:nth-child(3) > div:first-child > div.relative.lg\:before\:absolute.lg\:before\:inset-0.lg\:before\:bg-black\/75.lg\:before\:bg-pattern.lg\:before\:z-\[1\]:nth-child(2) > div.sm\:wrapper.sm\:relative.sm\:z-10:last-child > div:nth-child(2) > a > img
 ||google-analytics.com^
 ||googletagmanager.com^
-###jwplayer-19fe5eb88b94 > div.jw-wrapper.jw-reset:nth-child(2)
-###jwplayer-eaa56ad028e8 > div.jw-wrapper.jw-reset:nth-child(2)
-###jwplayer-fee53825e141
-###jwplayer-90c302522948
-###jwplayer-c40b39ffa171 > div.jw-wrapper.jw-reset:nth-child(2)
-###jwplayer-1793235254a4 > div.jw-wrapper.jw-reset:nth-child(2)
-###jwplayer-4bdb3547fe6f > div.jw-wrapper.jw-reset:nth-child(2)
-###jwplayer-26900a79262e > div.jw-wrapper.jw-reset:nth-child(2)
-###jwplayer-bf73e55b245f > div.jw-wrapper.jw-reset:nth-child(2)
-###jwplayer-0ff162c63e51
-###jwplayer-f2c10a468264 > div.jw-wrapper.jw-reset:nth-child(2)
-###jwplayer-92ea1ac9bf26 > div.jw-wrapper.jw-reset:nth-child(2)
-###jwplayer-7fdcccdd4606 > div.jw-wrapper.jw-reset:nth-child(2)
-###jwplayer-76365934d825 > div.jw-wrapper.jw-reset:nth-child(2)
-###jwplayer-7e5ebe2693fa > div.jw-wrapper.jw-reset:nth-child(2)
-###jwplayer-6aeb7e347498
-###jwplayer-f75c8a370390 > div.jw-wrapper.jw-reset:nth-child(2)
-###jwplayer-b7026589dac8
-###jwplayer-3208efa0401a > div.jw-wrapper.jw-reset:nth-child(2)
-###jwplayer-cdde149606d9
-###jwplayer-d7e69e608a7e > div.jw-wrapper.jw-reset:nth-child(2)
-###jwplayer-b6a02d46e4c3
-###jwplayer-2582f7292ff8
-###jwplayer-bfaddbe647ab
-###jwplayer-ff611c84b650
-###jwplayer-45a98e761db8
-###jwplayer-b1cd7c8f1c08
-###jwplayer-a28218225ece
-###jwplayer-ad35fb3223be
-###jwplayer-b881205e893a > div.jw-wrapper.jw-reset:nth-child(2)
-###jwplayer-e9de6ffd410e
-###jwplayer-5de2df295c95 > div.jw-wrapper.jw-reset:nth-child(2)
-###jwplayer-ba3b6e6d2644 > div.jw-wrapper.jw-reset:nth-child(2)
-###jwplayer-d68925827237 > div.jw-wrapper.jw-reset:nth-child(2)
-###jwplayer-3958f648a7c4 > div.jw-wrapper.jw-reset:nth-child(2)
-###jwplayer-82d1723adbd3 > div.jw-wrapper.jw-reset:nth-child(2)
-###jwplayer-d9d267ac372d
-###jwplayer-b12b959d7552
-###jwplayer-ee8b332bcec9
-###jwplayer-b2185f4dc723
-###jwplayer-12758334dbd4
-###jwplayer-a44427ccb4d0
-###jwplayer-daa0ae24bc96 > div.jw-wrapper.jw-reset:nth-child(2)
-###jwplayer-8533def1030a
-###jwplayer-383718c2aa50 > div.jw-wrapper.jw-reset:nth-child(2)
-###jwplayer-b3a41140fa53 > div.jw-wrapper.jw-reset:nth-child(2)
-###jwplayer-9bd54c9ade22 > div.jw-wrapper.jw-reset:nth-child(2)
-###jwplayer-be5e9e6bad29
-###jwplayer-73220d283167 > div.jw-wrapper.jw-reset:nth-child(2)
-###jwplayer-69aa5177d3be
-###jwplayer-9a3ce1263039 > div.jw-wrapper.jw-reset:nth-child(2)
-###jwplayer-f4c19bf1086f > div.jw-wrapper.jw-reset:nth-child(2)
-###jwplayer-24b826e47f81 > div.jw-wrapper.jw-reset:nth-child(2)
-###jwplayer-3dfe29da79fe
-###jwplayer-1ebeece99f83
-###jwplayer-14a5459a7602
-###jwplayer-82f1f4ebcb94 > div.jw-wrapper.jw-reset:nth-child(2)
-###jwplayer-207891eed59b
-###jwplayer-abcba77fbb39
-###jwplayer-57c800cfe61c > div.jw-wrapper.jw-reset:nth-child(2)
-###jwplayer-a3d1df1e5df0
-###jwplayer-d5bce9e20264 > div.jw-wrapper.jw-reset:nth-child(2)
-###jwplayer-eca152504058 > div.jw-wrapper.jw-reset:nth-child(2)
-###jwplayer-9e5b7be7ec93 > div.jw-wrapper.jw-reset:nth-child(2)
-###jwplayer-ee60f8ef990d
-###jwplayer-5aec7ad25f15
-###jwplayer-581071e036a8 > div.jw-wrapper.jw-reset:nth-child(2)
-###jwplayer-a609df780344 > div.jw-wrapper.jw-reset:nth-child(2)
-###jwplayer-c5bc55fff8d7 > div.jw-wrapper.jw-reset:nth-child(2)
-###jwplayer-e24aaf3da28a > div.jw-wrapper.jw-reset:nth-child(2)
-###jwplayer-790f3b9d090d
-###jwplayer-585f0528e31b
-###jwplayer-3413de19e8ee > div.jw-wrapper.jw-reset:nth-child(2)
-###jwplayer-bb6c33f955ea > div.jw-wrapper.jw-reset:nth-child(2)
-###jwplayer-1690145af1df > div.jw-wrapper.jw-reset:nth-child(2)
-###jwplayer-3e79fc406fcc
-###jwplayer-23463b54bd1b > div.jw-wrapper.jw-reset:nth-child(2)
-###jwplayer-fba38a600293 > div.jw-wrapper.jw-reset:nth-child(2)
-###jwplayer-b9bcc76a04e5 > div.jw-wrapper.jw-reset:nth-child(2)
-###jwplayer-b66bb26793c4 > div.jw-wrapper.jw-reset:nth-child(2)
-###jwplayer-fc170a754777 > div.jw-wrapper.jw-reset:nth-child(2)
-###jwplayer-7871afb59ef4 > div.jw-wrapper.jw-reset:nth-child(2)
-###jwplayer-54c589b51e4a > div.jw-wrapper.jw-reset:nth-child(2)
-###jwplayer-9f18904a355b > div.jw-wrapper.jw-reset:nth-child(2)
-###jwplayer-e93691c8c638 > div.jw-wrapper.jw-reset:nth-child(2)
-###jwplayer-875ff3e20463
-###jwplayer-58669bb106a2 > div.jw-wrapper.jw-reset:nth-child(2)
-###jwplayer-2dd94c0a888d
-###jwplayer-31469e8336df
-###jwplayer-d7e6f5b3971d
-###jwplayer-7562eec60a9f
-###jwplayer-839cb4ea472e
-###jwplayer-a0994efe1acc
-###jwplayer-b531cc2679b0
-###jwplayer-311e09f7d211
-###jwplayer-d647b6976072
-###jwplayer-da5194c3f723
-###jwplayer-30e94cfcc878 > div.jw-wrapper.jw-reset:nth-child(2)
-###jwplayer-23fac77c28ad
-###jwplayer-63a7fceafe79
-###jwplayer-92b1c275787e
-###jwplayer-f42dbea28e2c
-###jwplayer-e8d922522999
-###jwplayer-d161d3fa3bb6
-###jwplayer-8e771f175bbf > div.jw-wrapper.jw-reset:nth-child(2)
-###jwplayer-3149505699b6 > div.jw-wrapper.jw-reset:nth-child(2)
-###jwplayer-bef3b775e16e > div.jw-wrapper.jw-reset:nth-child(2)
-###jwplayer-71e6a2740da5 > div.jw-wrapper.jw-reset:nth-child(2)
-###jwplayer-7c08bda56ff0
-###jwplayer-598c829b0c73 > div.jw-wrapper.jw-reset:nth-child(2)
-###jwplayer-2ece31715ffb
-###jwplayer-55f69b9f80ea
-###jwplayer-c08b9d41544b > div.jw-wrapper.jw-reset:nth-child(2)
-###jwplayer-daa8a4ff7397
-###jwplayer-4968a53dda96
-###jwplayer-78e9f787f291 > div.jw-wrapper.jw-reset:nth-child(2)
-###jwplayer-ff82e1c5c930
-###jwplayer-09f11ca589a0
-###jwplayer-c48978edafd2 > div.jw-wrapper.jw-reset:nth-child(2)
-###jwplayer-874a015f3205 > div.jw-wrapper.jw-reset:nth-child(2)
-###jwplayer-797516fc5bf7
-###jwplayer-73dd629620f1 > div.jw-wrapper.jw-reset:nth-child(2)
-###jwplayer-8953eaeeb4c6 > div.jw-wrapper.jw-reset:nth-child(2)
-###jwplayer-3fa362729ae6
-###jwplayer-a1a12f8703cc
-###jwplayer-263cc0116506
-###jwplayer-fca24df0f6d8
-###jwplayer-197500d163cb > div.jw-wrapper.jw-reset:nth-child(2)
-###jwplayer-b0aa6acaaeca
-###jwplayer-812d1ca0c060
-###jwplayer-6b59dbaede7a
-###jwplayer-8d432255a2fd
-###jwplayer-309193026eb1
-###jwplayer-c8d18bf89e2a
-###jwplayer-74f83a2c3900
-###jwplayer-4a4435fe1369 > div.jw-wrapper.jw-reset:nth-child(2)
-###jwplayer-269de425c418 > div.jw-wrapper.jw-reset:nth-child(2)
-###jwplayer-3f7566af6ab8 > div.jw-wrapper.jw-reset:nth-child(2)
-###jwplayer-ab08874fe1d8 > div.jw-wrapper.jw-reset:nth-child(2)
-###jwplayer-d5f886ca2201 > div.jw-wrapper.jw-reset:nth-child(2)
-###jwplayer-349c3aa60f00 > div.jw-wrapper.jw-reset:nth-child(2)
-###jwplayer-55ceb9233811
-###jwplayer-83737b07e6b0
-###jwplayer-9c6b62432434 > div.jw-wrapper.jw-reset:nth-child(2)
-###jwplayer-726e24ac6626 > div.jw-wrapper.jw-reset:nth-child(2)
-###jwplayer-79708019df71
-###jwplayer-f7d0b9b73f57
-###jwplayer-3a06cb2a6ab5
-###jwplayer-a24c1e36461d
-###jwplayer-07c1ba8d6314
-###jwplayer-c8477accd519
-###jwplayer-9722208f2f5d
-###jwplayer-0f744b42bfeb
-###jwplayer-a2bd958e01fd
-###jwplayer-873f7f433bff
-###jwplayer-f0f1f1bb1c83 > div.jw-wrapper.jw-reset:nth-child(2)
-###jwplayer-143fc4e504bf
-###jwplayer-dc920b28c9dd
-###jwplayer-f4cb4c2966cc
-###jwplayer-9e5f178be1c4 > div.jw-wrapper.jw-reset:nth-child(2)
-###jwplayer-51a5ff7b9f4d > div.jw-wrapper.jw-reset:nth-child(2)
-###jwplayer-633269629eca > div.jw-wrapper.jw-reset:nth-child(2)
-###jwplayer-fc727573bd0c
-###jwplayer-01f85606e8dd > div.jw-wrapper.jw-reset:nth-child(2)
-###jwplayer-40d81342624a
-###jwplayer-1c167890a1ff
-###jwplayer-47375925446f > div.jw-wrapper.jw-reset:nth-child(2)
-###jwplayer-85fc25266328 > div.jw-wrapper.jw-reset:nth-child(2)
-###jwplayer-f71d47b7159b
-###jwplayer-926c73c14a5d
-###jwplayer-099331a32881
-###jwplayer-e185c4eaee33
-###jwplayer-87afe626385a > div.jw-wrapper.jw-reset:nth-child(2)
-###jwplayer-5086ae244470 > div.jw-wrapper.jw-reset:nth-child(2)
-###jwplayer-968cb21806a9
-###jwplayer-8246d5fa5862 > div.jw-wrapper.jw-reset:nth-child(2)
-###jwplayer-9aa2b1c09bda
-###jwplayer-14cc52365607
-###jwplayer-3997f112c304 > div.jw-wrapper.jw-reset:nth-child(2)
-###jwplayer-36979ee490d7
-###jwplayer-ca97070ef22a > div.jw-wrapper.jw-reset:nth-child(2)
-###jwplayer-ea2e3f5cfb00 > div.jw-wrapper.jw-reset:nth-child(2)
-###jwplayer-0f6623c05bce > div.jw-wrapper.jw-reset:nth-child(2)
-###jwplayer-79fd594d2a32 > div.jw-wrapper.jw-reset:nth-child(2)
-###jwplayer-a0e76b955523 > div.jw-wrapper.jw-reset:nth-child(2)
-###jwplayer-3f75ededf24b > div.jw-wrapper.jw-reset:nth-child(2)
-###jwplayer-4aaef77cfa6b > div.jw-wrapper.jw-reset:nth-child(2)
-###jwplayer-512783adb575
-###jwplayer-7e0be9312a14
-###jwplayer-a6af7bcdbbac
-###jwplayer-9c5827f5a13b
-###jwplayer-e2e4ab4a27fc
-###jwplayer-c1a5ce635955
-###jwplayer-3c629b4901e6
-###jwplayer-fd016d5746bc
-###jwplayer-c4084e732e9f > div.jw-wrapper.jw-reset:nth-child(2)
-###jwplayer-1067862d5510
-###jwplayer-d99514f4aac9 > div.jw-wrapper.jw-reset:nth-child(2)
-###jwplayer-4579b57f488a
-###jwplayer-8ee4239dd186 > div.jw-wrapper.jw-reset:nth-child(2)
-###jwplayer-3f5c197cce5d > div.jw-wrapper.jw-reset:nth-child(2)
-###jwplayer-de2a48d3c143 > div.jw-wrapper.jw-reset:nth-child(2)
-###jwplayer-c536312368ab
-###jwplayer-4e5a6b2139e1
-###jwplayer-07d152055ca7 > div.jw-wrapper.jw-reset:nth-child(2)
-###jwplayer-ec8adcc616d3
-###jwplayer-c7b592ed88b6 > div.jw-wrapper.jw-reset:nth-child(2)
-###jwplayer-09853efe4d9c > div.jw-wrapper.jw-reset:nth-child(2)
-###jwplayer-6a8d9ffe8dd5 > div.jw-wrapper.jw-reset:nth-child(2)
-###jwplayer-10b12826078f > div.jw-wrapper.jw-reset:nth-child(2)
-###jwplayer-8403b8796db2
-###jwplayer-2b7dd6e73e59 > div.jw-wrapper.jw-reset:nth-child(2)
-###jwplayer-e75412eb4897 > div.jw-wrapper.jw-reset:nth-child(2)
-###jwplayer-4a6e45baa7f5 > div.jw-wrapper.jw-reset:nth-child(2)
-###jwplayer-f8f57bd177cd > div.jw-wrapper.jw-reset:nth-child(2)
-###jwplayer-13f2afd9b582 > div.jw-wrapper.jw-reset:nth-child(2)
-###jwplayer-347fbec5d857 > div.jw-wrapper.jw-reset:nth-child(2)
-###jwplayer-e60afa7b1333
-###jwplayer-2485239befec > div.jw-wrapper.jw-reset:nth-child(2)
-###jwplayer-3078aafffd4b > div.jw-wrapper.jw-reset:nth-child(2)
-###jwplayer-9faff9227f2d > div.jw-wrapper.jw-reset:nth-child(2)
-###jwplayer-316093bd405f > div.jw-wrapper.jw-reset:nth-child(2)
-###jwplayer-c59fe285be45 > div.jw-wrapper.jw-reset:nth-child(2)
-###jwplayer-91e9930da37c > div.jw-wrapper.jw-reset:nth-child(2)
-###jwplayer-4df7b572d16d
-###jwplayer-2eedbdd2829c > div.jw-wrapper.jw-reset:nth-child(2)
-###jwplayer-60c262627e61 > div.jw-wrapper.jw-reset:nth-child(2)
-###jwplayer-cb000b8e983c > div.jw-wrapper.jw-reset:nth-child(2)
-###jwplayer-ef0354b7c70b > div.jw-wrapper.jw-reset:nth-child(2)
-###jwplayer-4dd0d2343e1f > div.jw-wrapper.jw-reset:nth-child(2)
-###jwplayer-011080e0c24e > div.jw-wrapper.jw-reset:nth-child(2)
-###jwplayer-5e2f10a8425d > div.jw-wrapper.jw-reset:nth-child(2)
-###jwplayer-238eb69bd6bc > div.jw-wrapper.jw-reset:nth-child(2)
-###jwplayer-c766c757e622 > div.jw-wrapper.jw-reset:nth-child(2)
-###jwplayer-4624db80bbb8 > div.jw-wrapper.jw-reset:nth-child(2)
-###jwplayer-e2ed2f11318e > div.jw-wrapper.jw-reset:nth-child(2)
-###jwplayer-ce8fb14aeecd > div.jw-wrapper.jw-reset:nth-child(2)
-###jwplayer-5e6ec8dd901b
-###jwplayer-60a1a61b0389 > div.jw-wrapper.jw-reset:nth-child(2)
-###jwplayer-f4514d5906c0
-###jwplayer-2965b57d1bdc
-###jwplayer-177e888b0e19 > div.jw-wrapper.jw-reset:nth-child(2)
-###jwplayer-285fc50fac1b > div.jw-wrapper.jw-reset:nth-child(2)
-###jwplayer-e439aad4ac57
-###jwplayer-a3d19f6e5c0f
-###jwplayer-7d1c7b0ce376
-###jwplayer-9810eed4ad8a
-###jwplayer-9e24486bd781
-###jwplayer-1052160a4575
-###jwplayer-27424d55dff0
-###jwplayer-881fe39586fd
-###jwplayer-267ef4fe798c
-###jwplayer-a17fd86b20cd > div.jw-wrapper.jw-reset:nth-child(2)
-###jwplayer-67154e107609 > div.jw-wrapper.jw-reset:nth-child(2)
-###jwplayer-81bcbaf0699a > div.jw-wrapper.jw-reset:nth-child(2)
-###jwplayer-f15ff69eba39
-###jwplayer-72577f669bc8 > div.jw-wrapper.jw-reset:nth-child(2)
-###jwplayer-2cc63d9fcfaa > div.jw-wrapper.jw-reset:nth-child(2)
-###jwplayer-58d10a3d49f7
-###jwplayer-2f86450c2a91 > div.jw-wrapper.jw-reset:nth-child(2)
-###jwplayer-ff15716e18a5 > div.jw-wrapper.jw-reset:nth-child(2)
-###jwplayer-569386a5147f > div.jw-wrapper.jw-reset:nth-child(2)
 adjaranets.com###jwplayer-952cd286db01 > div.jw-wrapper.jw-reset:nth-child(2)
-###jwplayer-b06a5dfa5be8 > div.jw-wrapper.jw-reset:nth-child(2)
-###jwplayer-47f540fecd2e > div.jw-wrapper.jw-reset:nth-child(2)
-###jwplayer-a1536f5f01a2
-###jwplayer-927f657f9ed0 > div.jw-wrapper.jw-reset:nth-child(2)
-###jwplayer-611edbc8789f > div.jw-wrapper.jw-reset:nth-child(2)
-###jwplayer-50a8f9e3a9a9 > div.jw-wrapper.jw-reset:nth-child(2)
-###jwplayer-9edf6746a5d5 > div.jw-wrapper.jw-reset:nth-child(2)
-###jwplayer-7c154288f606 > div.jw-wrapper.jw-reset:nth-child(2)
-###jwplayer-c908c8b54020
-###jwplayer-ee4b1e0f33f2
-###jwplayer-f80922676066
-###jwplayer-18547469cfbe
-###jwplayer-a570613bfd37
-###jwplayer-3d7b90759cae > div.jw-wrapper.jw-reset:nth-child(2)
-###jwplayer-7f2937ef0e10 > div.jw-wrapper.jw-reset:nth-child(2)
-###jwplayer-be39a31818d0 > div.jw-wrapper.jw-reset:nth-child(2)
-###jwplayer-462b1f0e80b1
-###jwplayer-dd38bb881c9b > div.jw-wrapper.jw-reset:nth-child(2)
-###jwplayer-18c78a210eb2 > div.jw-wrapper.jw-reset:nth-child(2)
-###jwplayer-46110080a620 > div.jw-wrapper.jw-reset:nth-child(2)
-###jwplayer-09ddcd2c0d1d > div.jw-wrapper.jw-reset:nth-child(2)
-###jwplayer-5864a0883b86
-###jwplayer-7cf4bc5ac9db
-###jwplayer-c6fa19816a76
-###jwplayer-d7f858c0e068 > div.jw-wrapper.jw-reset:nth-child(2)
-###jwplayer-a1f879b987d6 > div.jw-wrapper.jw-reset:nth-child(2)
-###jwplayer-645c8a9c0969 > div.jw-wrapper.jw-reset:nth-child(2)
-###jwplayer-e2d5a83d71f2 > div.jw-wrapper.jw-reset:nth-child(2)
-###jwplayer-845510e6d146
-###jwplayer-58fea10ee894 > div.jw-wrapper.jw-reset:nth-child(2)
-###jwplayer-c49de23eecdc > div.jw-wrapper.jw-reset:nth-child(2)
-###jwplayer-0346b61ea7d6 > div.jw-wrapper.jw-reset:nth-child(2)
-###jwplayer-4217edb66a81 > div.jw-wrapper.jw-reset:nth-child(2)
-###jwplayer-ac2bcbc220af > div.jw-wrapper.jw-reset:nth-child(2)
-###jwplayer-6f94434fc5c7 > div.jw-wrapper.jw-reset:nth-child(2)
 adjaranets.com##.bSrLZZ
 adjaranets.com##.ivjAut
 adjaranets.com##.yearshort
@@ -551,7 +117,6 @@ adjaranets.com##.audiolang2
 adjaranets.com##.audiolang
 ||crocobet.com/landings?url=*
 ||gotrackier.com^
-###sharing-popup-Blog1-byline-*
 ||aditmedia.g2afse.com/click?pid=10&*
 ||aditmedia.g2afse.com/click?*
 ||my.toruftuiov.com/*?zone=9418752-1036286521-3786755655&
@@ -566,17 +131,10 @@ adjaranets.com##.audiolang
 ||conjunctionrepresentativepowerless.com^
 ||adscope.gotrackier.com^
 ||go.trackinita.com^
-1000movie.net###dontfoid
-||*/*/r-snippetized$elemhide
-||*/*/snippet-container$elemhide
+1000movie.net###dontfoid^
 ||googletagmanager.com^
 ||gtm.js^
 https://69xgeorgia.link
-###jwplayer-e7d65d6b5831
-##main.mt-\[60px\].lg\:mt-\[72px\]:nth-child(4) > div:first-child > center:nth-child(4) > div
-##main.mt-\[60px\].lg\:mt-\[72px\]:nth-child(4) > div:first-child > center:nth-child(4)
-oritooep.win
-##main:nth-child(4) > div.wrapper > div.mt-8.space-y-8 > center:first-child
 https://nrjbow.sparkconnecct.com/?utm_source=da57dc555e50572d&&ban=banner&j1=1&s1=223326&s2=2038131&click_id=dfd1eed8a771c2a1931bf1c901218439
 https://s.viikblqc.com/h/745/m3desqogxr7fvhpiuh5izlgjwktuk54wz6onvtogzn5hq2l25zcfivaloyuxipnb2c6pira3g2xezmkb75bkzctfqjzy722szbf65rxm2cn2h5x2tjfyav22sjzfbvsmjkwfnv6s6ojddatt5tz7notnyzxipdomrj2p2sdc7rfeanawqzhxbckvinyxkxpcobzyquttwjwgb3ctu6auj73owobxhccb4cyzdtktszkeo6g7say2u4mhuoq2czngn6bsdilco2oussowjsu6xomkjp5eat3sizdfua2kinhwgsl6kzzf4z3tofiuawlypbxh54txklsesqetlsqhvedk2z45g4uhplrwfl3lxbb262mqmwrubdcmkcvfejxwlh4fnddqznry243t7vi5us4mijws5o2nmchwstwikne4u5wtgtov2rpxi2r2xjnmovqnsqdy5hf6a32ar2fu233mnjqp4sobyjnimtefxnikw4hw2m57e4f3k74ert7yqp3ljnu6rcjexocu2h5jlkwj52um72kc3r3izfagjknfhl2fayzbqibyonhfqdrgee2sg3asg5nsqmznhesf6fqnl5orast7drsq22i6guxsae2ibq4scmtvofawkb3vnfygc5kahezgepq2getb43anf4eg26l2i4jqiltvaqprqojqlm7h4ij6e5geiuili5dv4psnf5mhixtgff4vgqqpff5tg6d2jm3ag6tne4ysee2tbrnrmt2jmbahwwdad44s65awbumd4iitbqxamit6beqwczibaiassxywcmpaonrzdayb6ai4pqdacwrsayhqcej4cbbhumqjmv3ekbapmvctmni6euiaydzpeqec2vq7guqcobafm5arczd2aajbagzsajihgejfhy2ripr3gbkdepadb4hfu6rcgmprqnqrn52ds4tgfi3dawyghrbbcnirp4gagiqkb54bgfcvbebtwkrakzqxacqvgaiaapy3bryckkaufbbrgwltlq7qckq3izkayjamfmetuotypi2r2jlriiwroyqhaahbgazqbesdkazgauadkhl7aiba4fqumictwl3vcf2tehqjc5adinaeiqpssy26cyvambbalqdre432aasr4xrgh5ydwdj3dewhqiq2hmcbihs7aqbgghd2hm5qypiggidxuerxiehqycbtcidtmoqbii3s6pydb4sxinbyhiea2mjypvwwicqua4rec6tboa7hiab5enabmbqzmeqg6xaeeqtdubafgidx4krgb45t6c2couqcgyjfdmzssxrwayfcaaa7c4ua6cttpycc2vbjhuxryz2bcvsamktbmuatgbi2jmtt2kyidybakijkgmahqebfkuwawaakcaaci5axfi6rabrecahxwkccbelcoii7betcmcqihazbshy4h57roqrvoestg5qyeq3d2m3ihq6cqna5hytxcbbtduidglrbpirbeiygejthulrbgejsyhjxfuluambvcmlbgbbajfra2oceiuxxymj3eydueitepqzrehbaeymskqayauzckry4heubsojedqtr2gi5dahssz2bcvda6fjxmaerkhkslqduwktda5zskesveexsgvkaae5twpj7hikt6ybpduhbwdjfhvjuqiz5cqdrecy5bimqobarkbbqcpian4vrcoqqpiwdkmieeaibmu2ieffsabize5obgbldhm4qsiqmbb6rscqfbimuikioduis4qcqkbybkcacdrkxqlbleavay4bui5md2az3bigawedqdf6xmfihearra6aldratehqbey2cuoa7h4jbggztbqicg4kaeqctimqgm4xukoqpmyabonrrimcsmls7huwxabscbexsegy7o4pqk5j5ea6c2fiyda3fmnakietaeg2yemcgkgdyaqcr4dypmaorqebscn7ruezdbfcrmkkugmvrwbrepmebawdjfq6bcmyga4ixg6qedu7x66a3e4jrmqknbrbbkazzdalxqgbreuscop2rcq4smdbtff5cijqtp4pdkpyuaejbcrjfi4gsqnqbaiausyqneaeueny7fm7s6ny3eajx6grfaecbijqhk5ft6sakdv4f65czaantceqdeaxaahblgyotw5d2hewgmmijcmnuwhy7jq4uaaiubnptckqfgectilz3cb5cybteaysgyfiffyecaocedu2dwh2vpawcudivf55dglycn55bajjxhmrg4nawezshgvcheqbdcajjefaqcclwb4db2cz3hfehqdq3pexegmkaei2captxaiovewychm6cabial47v4fqrfuxsccropyih2mrumeah2cbfgumtqe2wkq5bwcbgiiyceai2favhqnzffyncayirbmmda3d7hmhgedaghiiacprfiacted23aq4wmgjba5cqwkbpaq7riki7nqndspbrgzctmm3lifdbofz4bmqs6obebu4bsoach57coeasa4txubi6puyrcaywhifbcrapaylasgrthrqsejyqgqfhweipnvydkgledqkqcliwdyjtorizdejcqjiahafdihtsnrjtchi4piix6fyhavmwq2qcn4nrsfynpmatwprkh4bsa5rgfimt2wipjb4aumzpfapsmqadhv2reicui4qhwai5c4bripyxbyqrs3t3e4laqgrgc47ccsqwmfuguarug5cr4gyxiayc4ibzhqms6aiveegbciz6hqfwmeqvg4iac2dkaigs2cjyenbcemypd4ld4hywhmcc2akydurg66qqnvydkadqbe7bkg3gim3qm4a3bmncioyecqjvw5lzbnkraob3damxwjrxcfrqq2zggqwrgqrtmavdyhzbhidcucazmartykbgauuq6hyqoezbe3qbh5zsk5ateefv4qahhejqm6b4mnpbepdmkm2uq6aoav5aqbaqpubr6k3soe3ucgsqiq3euzccaqlrmciydabairqmgajbkbblefqvcaqohujaefz7fuabwnjverkxqlddlyjcgakrb4oqkbqeofytmc3hnbvam3zjdqsduxi2czebekjddr2asar6eafq4wbebqrsefqqmzxckpbpdfzqaoyenmcr2ej7cunby7ykcz5hsk2pf4atciy6amvas6lyh4fd6ki6hywxagilcyqbggabgqacmgt3gbjf6cdzaiqdokqhpuabwkjvb4rqiotacyucqmkhgbobehiyaentmms6dqdbg6yyiauwiortgu3bagj5avpcobr7hm5bajamf4jccokrkjpqqgyrgj2fmylqbakaghqxai4sk2y2aeucuhjilq2akoqee5mb6cblbexqodr2efxqqkbweafaotauirdvosqweurb65bgeuod2fzcfi5dwbbqfiab45jgaegtugz2iiaeucqwie4cap27buwwqgjccmheq6akny5rqbz6pa5gacivcm6aymicirfrmmyrbyqdiwzkbimsmus7bawsilyqaashefa5hywtcvchernd6nz2e4nr6paqhebskda3bznh2mamb4mbmp3tdinqyml3aapqorifiaxd2crabiiv4yzidajvexyih4od2eklgbma6iifgmzqqbbei4ssmgzaeeoao5i2g5wtueq6bf3xwzd6onfweat3nz2rwezbhefhwba4lysag527ofpwq6trkbaf443oei6c4ttaab6wqyrbpyduatadizoea7sckawuyzlconyvmts4pf4wcwgvyknmjqehupvyo4c54lojxu3vadoj7nebnyemx5oozbtsv2xyvkvi7lgjwktul7kcpbdvucsfjnewgql53zdykvljk5uqs52seardymsjpqmt4lbwgirbyhamkuob2d36dusrq6k4fzruwum46wqpiudso55velwo5fgxphuoojhuwaviyfs3d4avp5krz4orjv4cg4pxc7c456dxny5ho6y7k4qwccrganwp3ozb6jyjguy=?u=
 https://eu.moders.co/nty/postback/click?key=v2-1738181454929-4-13586-1395016-735fc374-6674-04b9-7ba2-ba28f596adb4
@@ -693,27 +251,12 @@ https://go.rmhfrtnd.com/api/goToTheTag?campaignId=2024&userId=dd4ee7591f86fb57cd
 https://1asb.com/sm_a2_nwvcnkyqd0pp.html?zoneid=6973311&ymid=173817556109990TGETV435606014314V57f28&sourceid=388113420__7509088-1036286521-3786755655&tt=2
 https://noolt.com/sm_a2_nwvcnkyqd0pp.html?zoneid=7459177&ymid=173817553209990TGETV435606014314V99c4c&sourceid=424058220__9301868-1036286521-3786755655&tt=2
 https://noolt.com/sm_a2_nwvcnkyqd0pp.html?zoneid=6973311&ymid=173817549609990TGETV435606014314V1a7a3&sourceid=388113420__7509088-1036286521-3786755655&tt=2
-###jwplayer-5ea64d1e42f8
-###jwplayer-4b8db0b31df3
-###jwplayer-3c75be2b0079 > div.jw-wrapper.jw-reset:nth-child(2)
-###jwplayer-e9a28ac40ecd
-###jwplayer-3475e3ebd69d
-###jwplayer-3b39b526d151 > div.jw-wrapper.jw-reset:nth-child(2)
-###jwplayer-4eb7efe90fdf
-###jwplayer-5f5c602f3347 > div.jw-wrapper.jw-reset:nth-child(2)
-###jwplayer-0f5be4186a4b
-##div.mobile-1:nth-child(7) > center:nth-child(9) > h5.blinking-text:last-child
-###content > div.shida-bg-0:last-child > div.a-zoma-11 > div.shida-movie-1 > center > center:last-child > div.sh-video-1:last-child > div.tab_container:last-child > div:nth-child(4)
-###content > div.shida-bg-0:last-child > div.a-zoma-11 > div.shida-movie-1 > center > center:last-child > div.sh-video-1:last-child > div.tab_container:last-child > div:nth-child(3)
 ||googletagmanager.com/gtm.js*
 ||google.com/ads/*
 ||vidsrc.icu/*redirect*
 ||vidsrc.icu/*popup*
 https://boobausauhipsa.net/?z=7807247&syncedCookie=true&rhd=false
 ||adjaranet.bet/engine/modules/player/roll/ambs-fina-*.xml
-||*.woff2^
-###jwplayer-f9f1f7981fad
-###jwplayer-51bee1bfc8b3
 https://ak.astjigglypuffchan.com/rhd?z=7707378&syncedCookie=false&rhd=true
 https://affluentarmyequator.com/2020443/
 https://boobausauhipsa.net/?z=7807247&syncedCookie=false&rhd=false
